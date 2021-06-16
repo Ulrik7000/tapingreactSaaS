@@ -1,11 +1,11 @@
 import { createMuiTheme, responsiveFontSizes } from "@material-ui/core";
 
 // colors
-const primary = "#B0BF1A";
-const secondary = "white";
-const black = "#343a40";
+const primary = "#ffff66";
+const secondary = "#ffff66";
+const black = "#ffff66";
 const darkBlack = "rgb(36, 40, 44)";
-const background = "#f5f5f5";
+const background = "#ffff66";
 const warningLight = "rgba(253, 200, 69, .3)";
 const warningMain = "rgba(253, 200, 69, .5)";
 const warningDark = "rgba(253, 200, 69, .7)";
